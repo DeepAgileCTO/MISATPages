@@ -143,7 +143,7 @@ layout: default
 
 <dl>
 <dt>温度：</dt>
-<dd>15℃～40℃/dd>
+<dd>15℃～40℃</dd>
 <dt>湿度：</dt>
 <dd>≤80％RH</dd>
 <dt>周围环境：</dt>
@@ -151,8 +151,6 @@ layout: default
 <dt>特殊储存：</dt>
 <dd>周围无强磁场</dd>
 </dl>
-
-test
 
 * * *
 
